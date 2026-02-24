@@ -1,0 +1,3 @@
+python readscn.py
+python initjson.py
+python readjson.py
