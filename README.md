@@ -1,12 +1,13 @@
 thank for https://github.com/UlyssesWu/FreeMote
 
 如何使用
-首先点击1readscn.cmd
+在文件夹中创建一个scn文件夹，放入scn文件到其中
+点击1readscn.cmd
 2initjson.cmd
 3readjson.cmd
 
 注意如果有新的json添加请重新
-点击2initjson.cmd创建列表
+点击2initjson.cmd创建处理列表
 然后再3readjson.cmd
 
 本程序仅适用于nekopara ex/vol0,1,2,4,Af
